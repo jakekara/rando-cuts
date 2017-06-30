@@ -1,0 +1,12 @@
+{
+  "name": "viz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "browserify src/exec_budget.js > js/exec_budget.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

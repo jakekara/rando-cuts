@@ -1,0 +1,45 @@
+/* @import url('https://fonts.googleapis.com/css?family=Lato'); */
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,900');
+
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+#container{
+
+}
+
+.rando h1{
+    font-weight: 300;
+}
+
+.rando .subtle{
+    color: gray;
+    font-size: 0.75em;
+}
+
+.bar-holder{
+    height: 15px;
+    width: 100%;
+    background-color: #ebebeb;
+}
+.bar {
+    height: 100%;
+    background-color: lightskyblue;
+}
+
+.footnote{
+    color: gray;
+    font-size: 12px;
+}
+
+.play-pause{
+    margin-left: 4px;
+    cursor: pointer;
+    color: orange;
+}
+
+.play-pause:hover{
+    color: lightskyblue;
+}
