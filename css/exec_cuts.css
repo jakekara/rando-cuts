@@ -3,11 +3,13 @@
 
 
 body{
+    margin: 0px;
     font-family: 'Lato', sans-serif;
 }
 
 #container{
-
+    border: 1px solid lightgray;
+    padding: 8px;
 }
 
 .rando h1{
